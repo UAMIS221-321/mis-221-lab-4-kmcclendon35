@@ -1,0 +1,15 @@
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.AssemblyInfoInputs.cache
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.AssemblyInfo.cs
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.csproj.CoreCompileInputs.cache
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.sourcelink.json
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/bin/Debug/net8.0/mis-221-lab-4-kmcclendon35
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/bin/Debug/net8.0/mis-221-lab-4-kmcclendon35.deps.json
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/bin/Debug/net8.0/mis-221-lab-4-kmcclendon35.runtimeconfig.json
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/bin/Debug/net8.0/mis-221-lab-4-kmcclendon35.dll
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/bin/Debug/net8.0/mis-221-lab-4-kmcclendon35.pdb
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.dll
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/refint/mis-221-lab-4-kmcclendon35.dll
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.pdb
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/mis-221-lab-4-kmcclendon35.genruntimeconfig.cache
+/Users/kimmcclendon/Library/CloudStorage/OneDrive-TheUniversityofAlabama/mis221/labs/mis-221-lab-4-kmcclendon35/obj/Debug/net8.0/ref/mis-221-lab-4-kmcclendon35.dll
